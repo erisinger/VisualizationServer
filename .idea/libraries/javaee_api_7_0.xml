@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="javaee-api-7.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/javaee-api-7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jetty-all-9.3.7.v20160115-uber.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
